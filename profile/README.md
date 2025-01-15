@@ -1,7 +1,6 @@
 # Software Engineering Course - IFSA Prague
 
-Welcome to the **Software Engineering Course** offered by **IFSA Prague**! This repository serves as an entrypoint for student created practical projects. Each student team will create a minimal viable product application over the course of the semester. Assignments, presentations and other materials for the class will be published at [official Canvas website](https://canvas.instructure.com/courses/10987072){:target="_blank"}. 
-
+Welcome to the **Software Engineering Course** offered by **IFSA Prague**! This repository serves as an entrypoint for student created practical projects. Each student team will create a minimal viable product application over the course of the semester. Assignments, presentations and other materials for the class will be published at <a href="[http://stackoverflow.com](https://canvas.instructure.com/courses/10987072)" target="_blank">official Canvas website</a>.
 ---
 
 ## About IFSA Prague
