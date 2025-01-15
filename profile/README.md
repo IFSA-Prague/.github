@@ -1,6 +1,6 @@
 # Software Engineering Course - IFSA Prague
 
-Welcome to the **Software Engineering Course** offered by **IFSA Prague**! This repository serves as a central hub for course materials, resources, and updates. 
+Welcome to the **Software Engineering Course** offered by **IFSA Prague**! This repository serves as an entrypoint student created projects. 
 
 ---
 
