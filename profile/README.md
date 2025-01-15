@@ -1,6 +1,6 @@
 # Software Engineering Course - IFSA Prague
 
-Welcome to the **Software Engineering Course** offered by **IFSA Prague**! This repository serves as an entrypoint student created projects. 
+Welcome to the **Software Engineering Course** offered by **IFSA Prague**! This repository serves as an entrypoint for student created practical projects. Each student team will create a minimal viable product application over the course of the semester. 
 
 ---
 
@@ -24,6 +24,7 @@ This course aims to:
 ## Topics Covered
 
 - **Introduction to Software Engineering**
+  - User Research 
   - Software Development Life Cycle
   - Agile and Scrum methodologies
 
